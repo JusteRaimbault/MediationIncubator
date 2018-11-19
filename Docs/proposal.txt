@@ -1,0 +1,33 @@
+
+
+Suite à la première session de l’incubateur de médiation scientifique du  CNRS, nous invitons les chercheurs et chercheuses systèmes complexes à proposer une thématique sur laquelle portera un ou plusieurs projets de médiation co-construits avec les professionnels.elles de la médiation scientifique participant à l’incubateur. Les propositions de thématiques leurs seront soumises en amont de la session 2, prévue le 7 décembre.
+
+Nom du laboratoire 
+UPS CNRS 3611 ISC-PIF
+
+Institut(s) de rattachement 
+CNRS
+
+Thématique Systèmes Complexes : 
+Transitions des systemes territoriaux
+
+Description de la thématique :
+La compréhension des dynamiques de transition au sein des systèmes de peuplement humains est essentielle pour la conception d'une intelligence territoriale répondant aux enjeux actuels des transitions durables. Celles-ci sont intrinsèquement multi-échelles et multi-dimensionnelles, et de nombreuses disciplines ont proposé des théories et modèles pour inférer les processus sous-jacents, à la fois de manière endogène mais aussi selon les conditions environnementales et historiques. Par exemple, la géographie a proposé des approches pour quantifier les dynamiques des systèmes de villes sur le temps long (Pumain & Reuillon, 2017), tandis que l'archéologie utilise la modélisation pour tester des hypothèses sur des dynamiques passées à partir de données rares (Kohler & Gumerman, 2000). Le concept de transition est intrinsèquement interdisciplinaire et complexe, comme le rappelle (Sanders, 2018) qui synthétise les transitions humaines principales. Celui-ci trouve par ailleurs un traitement conséquent au sein des fondements des systèmes complexes, par exemple selon un point de vue par les systèmes dynamiques (Thom, 1974), des approches plus récentes s'intéressant aux transferts d'information entre échelles (Allen, Stacey & Bar-Yam, 2017), ou car celui-ci est intrinsèquement lié au concepts de résilience des systèmes (Gao, Barzel, & Barabási, 2016).
+Cette thématique concerne potentiellement l'ensemble des disciplines s'intéressant à l'organisation spatiale des sociétés humaines et leur impacts, incluant par exemple histoire, économie, sciences environnementales, science des transports, sciences territoriales, ingénierie. L'idée de la thématique est également de proposer une synthèse inédite entre des disciplines qui communiquent toujours difficilement. Elle pourrait être intéressante pour le grand public car (i) le concerne directement par rapport à son rôle dans les transitions en cours (réflexivité); (ii) peut par là devenir un levier d'action auprès de celui-ci pour une implication citoyenne; (iii) offre un regard assez inhabituel (longues échelles de temps et petites échelles spatiales) sur des objets que chacun vit à chaque instant (ville, transports); (iv) peut être relativement ludique (connaissance des sociétés passées ou lointaines, prospective, scénarisation).
+
+
+Dans votre description, merci de souligner en quoi cette thématique s'inscrit dans des enjeux sociétaux et en quoi elle peut susciter l'intérêt du grand public.
+
+Références et ressources utiles (facultatif) 
+Pumain & Reuillon
+Sanders
+Kohler
+Thom
+Bar Yam
+Gao Barzel et Barabasi
+
+
+Discipline(s) concernée(s) 
+Geographie; archeologie; histoire, économie, sciences environnementales, science des transports, sciences territoriales, ingénierie
+
+
