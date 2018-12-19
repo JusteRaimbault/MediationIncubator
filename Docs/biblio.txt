@@ -3,40 +3,48 @@
 ==
 Approche geographique
 
-Positionnement systemes complexes:
+Positionnement systemes complexes pour etudier les systemes urbains:
  - HDR d'Arnaud Banos https://halshs.archives-ouvertes.fr/tel-01112668/
  - introduction de ma these, chapitre 3 pour le positionnement epistemologique https://tel.archives-ouvertes.fr/tel-01857741/document
  - "Generative social science" http://jasss.soc.surrey.ac.uk/11/4/12.html.bak
- - Sur la question des echelles justement (Bedau, 2002) https://periodicos.ufsc.br/index.php/principia/article/viewFile/17003/15556
+ - Sur la question des echelles et de l'emergence (Bedau, 2002) https://periodicos.ufsc.br/index.php/principia/article/viewFile/17003/15556
 
-Apercu general de la "theorie evolutive des villes":
-
+Apercu general de la "theorie evolutive des villes" (cadre conceptuel pour les systemes urbains complexes)
+ - Pour une theorie evolutive des villes (Pumain, 1997) https://hal.archives-ouvertes.fr/hal-01760576/document 
  - (Pumain, 2010) https://popups.uliege.be/0770-7576/index.php?id=823&file=1
- - (Pumain, 2018)
 
-Travaux de l'equipe dans ce cadre
-  
- - intro de ce bouquin donne bien positionnement general http://www.openmole.org/current/paper/urbanDynamics.pdf
-  - calibration sur faits stylisés pour l'émergence des systèmes de villes : https://arxiv.org/pdf/1502.06752.pdf : modèle basique d'interaction entre les agents qui sont les villes, en fonction de la diffusion de l'innovation dans l'espace ; indicateurs sont niveau de la loi rang-taille, distance à une log-normale, et temps de simu (super basiques mais déjà dur a produire simultanément pour les faits stylisés géo)
- - le meme modèle où ils montrent processus nécessaires et suffisants avec les Profile : http://jasss.soc.surrey.ac.uk/18/1/12.html
- - recherche de diversité : http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138212 (par ailleurs ce modèle est calibré sur vraies données de population)
+Travaux de l'equipe Geographie-cites/ISC dans ce cadre
+  - intro de ce bouquin donne bien positionnement general http://www.openmole.org/current/paper/urbanDynamics.pdf
+  - modele pour l'émergence des systèmes de villes : https://arxiv.org/pdf/1502.06752.pdf
+ - le meme modèle où ils montrent processus nécessaires et suffisants avec l'algorithme des Profile : http://jasss.soc.surrey.ac.uk/18/1/12.html
+ - recherche de diversité dans les sorties du modele: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138212 (par ailleurs ce modèle est calibré sur vraies données de population)
  - algos de diversité appliqués au design de parcelles urbaines (algo PSE) : https://hal.archives-ouvertes.fr/hal-01650530/document
 
-Travaux perso (modele basiques population / population-reseau)
+Certains de mes travaux (modele basiques population / population-reseau)
  - echelle meso: reaction-diffusion et forme urbaine (Raimbault, 2018) https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0203516
  - echelle macro: effets de reseaux (Raimbault, 2018) http://sci-hub.tw/https://journals.sagepub.com/doi/abs/10.1177/2399808318774335
  - variete de forme urbaine a partir du comportement micro des agents (Raimbault, Banos, Doursat, 2014) https://arxiv.org/abs/1612.08552
+
+Definition de la ville
+ - differentes definitions (Guerois, Paulus, 2002) https://journals.openedition.org/cybergeo/3491?file=1
+ - comment la definition change qualitativement les analyses (Cottineau, Hatna, Arcaute, Batty, 2017) https://core.ac.uk/download/pdf/82362738.pdf
 
 ==
 Physique
 
  - analyse dynamique du reseau routier parisien (combinaison d'effets planifies et emergents) (Barthelemy, Bordin, Beresticky, Gribaudi, 2013) https://www.nature.com/articles/srep02153
-
+ - lois d'echelle urbaines (proprietes des villes sont liees de facon non-lineaire a leur taille) (Bettencourt et al., 2007) https://www.pnas.org/content/pnas/104/17/7301.full.pdf
+ - simulation de la structure urbaine par un modele agent (Lemoy, Raux, Jensen, 2016) https://hal.archives-ouvertes.fr/hal-00602087/document
 
 ==
 Transports
  
- - Dynamiques chaotiques du traffic en Ile-de-France https://www.sciencedirect.com/science/article/pii/S2352146517301898
+ - feux rouges auto-organises (Gershenson, Rosenblueth, 2012) http://sci-hub.tw/https://onlinelibrary.wiley.com/doi/pdf/10.1002/cplx.20392
+ - effet structurant des transports (Offner, 1993) https://www.persee.fr/docAsPDF/spgeo_0046-2497_1993_num_22_3_3209.pdf
+
+Certains de mes travaux
+ - Dynamiques chaotiques du traffic en Ile-de-France (Raimbault, 2017) https://www.sciencedirect.com/science/article/pii/S2352146517301898
+ - Modelisation agent du systeme vlib (Raimbault, 2015) https://arxiv.org/pdf/1605.08883.pdf
 
 
 
